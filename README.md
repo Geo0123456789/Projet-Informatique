@@ -1,2 +1,2 @@
 # Projet-Informatique
-Sujet 2 Projet Informatique : Plateforme d'evaluation
+Sujet 2  : Plateforme d'evaluation
